@@ -1,0 +1,89 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "DulceFacilContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Entidades",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DulceFacil.Infraestructura.AccesoDatos",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[CLIENTE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[COTIZACION]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[COTIZACION_DETALLE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[INVENTARIO]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PRECIOPRODUCTO]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PRODUCTO]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[REPARTIDOR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RUTA]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UBICACION_ENTREGA]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[USUARIO]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VENTA]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
