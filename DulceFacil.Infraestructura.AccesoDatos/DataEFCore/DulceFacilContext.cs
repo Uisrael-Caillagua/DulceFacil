@@ -15,6 +15,7 @@ public partial class DulceFacilContext : DbContext
     public DulceFacilContext(DbContextOptions<DulceFacilContext> options)
         : base(options)
     {
+
     }
 
     public virtual DbSet<CLIENTE> CLIENTE { get; set; }

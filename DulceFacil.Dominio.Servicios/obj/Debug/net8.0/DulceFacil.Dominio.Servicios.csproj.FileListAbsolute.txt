@@ -1,0 +1,12 @@
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\bin\Debug\net8.0\DulceFacil.Dominio.Servicios.deps.json
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\bin\Debug\net8.0\DulceFacil.Dominio.Servicios.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\bin\Debug\net8.0\DulceFacil.Dominio.Servicios.pdb
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\obj\Debug\net8.0\DulceFacil.Dominio.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\obj\Debug\net8.0\DulceFacil.Dominio.Servicios.AssemblyInfoInputs.cache
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\obj\Debug\net8.0\DulceFacil.Dominio.Servicios.AssemblyInfo.cs
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\obj\Debug\net8.0\DulceFacil.Dominio.Servicios.csproj.CoreCompileInputs.cache
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\obj\Debug\net8.0\DulceFacil.Dominio.Servicios.sourcelink.json
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\obj\Debug\net8.0\DulceFacil.Dominio.Servicios.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\obj\Debug\net8.0\refint\DulceFacil.Dominio.Servicios.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\obj\Debug\net8.0\DulceFacil.Dominio.Servicios.pdb
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Dominio.Servicios\obj\Debug\net8.0\ref\DulceFacil.Dominio.Servicios.dll

@@ -3375,11 +3375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.WebAPI\\DulceFacil.WebAPI.csproj",
+      "projectUniqueName": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.WebAPI\\DulceFacil.WebAPI.csproj",
       "projectName": "DulceFacil.WebAPI",
-      "projectPath": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.WebAPI\\DulceFacil.WebAPI.csproj",
+      "projectPath": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.WebAPI\\DulceFacil.WebAPI.csproj",
       "packagesPath": "C:\\Users\\JoelLAP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.WebAPI\\obj\\",
+      "outputPath": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3400,17 +3400,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Aplicacion.DTO\\DulceFacil.Aplicacion.DTO.csproj": {
-              "projectPath": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Aplicacion.DTO\\DulceFacil.Aplicacion.DTO.csproj"
+            "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Aplicacion.DTO\\DulceFacil.Aplicacion.DTO.csproj": {
+              "projectPath": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Aplicacion.DTO\\DulceFacil.Aplicacion.DTO.csproj"
             },
-            "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj"
+            "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj": {
+              "projectPath": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj"
             },
-            "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj": {
-              "projectPath": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj"
+            "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj": {
+              "projectPath": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj"
             },
-            "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Servicios\\DulceFacil.Dominio.Servicios.csproj": {
-              "projectPath": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Servicios\\DulceFacil.Dominio.Servicios.csproj"
+            "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Servicios\\DulceFacil.Dominio.Servicios.csproj": {
+              "projectPath": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Servicios\\DulceFacil.Dominio.Servicios.csproj"
             }
           }
         }

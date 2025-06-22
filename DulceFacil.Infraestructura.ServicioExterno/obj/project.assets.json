@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Infraestructura.ServicioExterno\\DulceFacil.Infraestructura.ServicioExterno.csproj",
+      "projectUniqueName": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Infraestructura.ServicioExterno\\DulceFacil.Infraestructura.ServicioExterno.csproj",
       "projectName": "DulceFacil.Infraestructura.ServicioExterno",
-      "projectPath": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Infraestructura.ServicioExterno\\DulceFacil.Infraestructura.ServicioExterno.csproj",
+      "projectPath": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Infraestructura.ServicioExterno\\DulceFacil.Infraestructura.ServicioExterno.csproj",
       "packagesPath": "C:\\Users\\JoelLAP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JoelLAP\\Documents\\Semestre6\\Desarrollo\\DulceFacilSistema\\DulceFacil.Infraestructura.ServicioExterno\\obj\\",
+      "outputPath": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Infraestructura.ServicioExterno\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

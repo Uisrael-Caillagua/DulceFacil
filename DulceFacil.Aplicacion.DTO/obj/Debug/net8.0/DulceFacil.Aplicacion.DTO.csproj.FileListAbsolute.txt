@@ -1,0 +1,12 @@
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\bin\Debug\net8.0\DulceFacil.Aplicacion.DTO.deps.json
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\bin\Debug\net8.0\DulceFacil.Aplicacion.DTO.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\bin\Debug\net8.0\DulceFacil.Aplicacion.DTO.pdb
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\obj\Debug\net8.0\DulceFacil.Aplicacion.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\obj\Debug\net8.0\DulceFacil.Aplicacion.DTO.AssemblyInfoInputs.cache
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\obj\Debug\net8.0\DulceFacil.Aplicacion.DTO.AssemblyInfo.cs
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\obj\Debug\net8.0\DulceFacil.Aplicacion.DTO.csproj.CoreCompileInputs.cache
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\obj\Debug\net8.0\DulceFacil.Aplicacion.DTO.sourcelink.json
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\obj\Debug\net8.0\DulceFacil.Aplicacion.DTO.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\obj\Debug\net8.0\refint\DulceFacil.Aplicacion.DTO.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\obj\Debug\net8.0\DulceFacil.Aplicacion.DTO.pdb
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Aplicacion.DTO\obj\Debug\net8.0\ref\DulceFacil.Aplicacion.DTO.dll

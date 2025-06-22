@@ -1,0 +1,12 @@
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\bin\Debug\net8.0\DulceFacil.Infraestructura.ServicioEmail.deps.json
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\bin\Debug\net8.0\DulceFacil.Infraestructura.ServicioEmail.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\bin\Debug\net8.0\DulceFacil.Infraestructura.ServicioEmail.pdb
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioEmail.AssemblyInfoInputs.cache
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioEmail.AssemblyInfo.cs
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioEmail.csproj.CoreCompileInputs.cache
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioEmail.sourcelink.json
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioEmail.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\obj\Debug\net8.0\refint\DulceFacil.Infraestructura.ServicioEmail.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioEmail.pdb
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioEmail\obj\Debug\net8.0\ref\DulceFacil.Infraestructura.ServicioEmail.dll

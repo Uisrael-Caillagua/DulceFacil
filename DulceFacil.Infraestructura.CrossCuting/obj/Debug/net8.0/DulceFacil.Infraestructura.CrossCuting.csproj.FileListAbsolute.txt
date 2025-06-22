@@ -1,0 +1,12 @@
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\bin\Debug\net8.0\DulceFacil.Infraestructura.CrossCuting.deps.json
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\bin\Debug\net8.0\DulceFacil.Infraestructura.CrossCuting.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\bin\Debug\net8.0\DulceFacil.Infraestructura.CrossCuting.pdb
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\obj\Debug\net8.0\DulceFacil.Infraestructura.CrossCuting.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\obj\Debug\net8.0\DulceFacil.Infraestructura.CrossCuting.AssemblyInfoInputs.cache
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\obj\Debug\net8.0\DulceFacil.Infraestructura.CrossCuting.AssemblyInfo.cs
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\obj\Debug\net8.0\DulceFacil.Infraestructura.CrossCuting.csproj.CoreCompileInputs.cache
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\obj\Debug\net8.0\DulceFacil.Infraestructura.CrossCuting.sourcelink.json
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\obj\Debug\net8.0\DulceFacil.Infraestructura.CrossCuting.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\obj\Debug\net8.0\refint\DulceFacil.Infraestructura.CrossCuting.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\obj\Debug\net8.0\DulceFacil.Infraestructura.CrossCuting.pdb
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.CrossCuting\obj\Debug\net8.0\ref\DulceFacil.Infraestructura.CrossCuting.dll

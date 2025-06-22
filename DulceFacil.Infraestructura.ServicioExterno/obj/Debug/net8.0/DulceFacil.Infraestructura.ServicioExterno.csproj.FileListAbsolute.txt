@@ -1,0 +1,12 @@
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\bin\Debug\net8.0\DulceFacil.Infraestructura.ServicioExterno.deps.json
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\bin\Debug\net8.0\DulceFacil.Infraestructura.ServicioExterno.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\bin\Debug\net8.0\DulceFacil.Infraestructura.ServicioExterno.pdb
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioExterno.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioExterno.AssemblyInfoInputs.cache
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioExterno.AssemblyInfo.cs
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioExterno.csproj.CoreCompileInputs.cache
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioExterno.sourcelink.json
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioExterno.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\obj\Debug\net8.0\refint\DulceFacil.Infraestructura.ServicioExterno.dll
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\obj\Debug\net8.0\DulceFacil.Infraestructura.ServicioExterno.pdb
+C:\ProyectoDesarrollo\DulceFacilSistema\DulceFacil.Infraestructura.ServicioExterno\obj\Debug\net8.0\ref\DulceFacil.Infraestructura.ServicioExterno.dll
