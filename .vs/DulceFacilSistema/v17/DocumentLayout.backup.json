@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\proyectodesarrollo\\dulcefacilsistema\\dulcefacil.dominio.modelo\\abstracciones\\iventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\iventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\proyectodesarrollo\\dulcefacilsistema\\dulcefacil.dominio.modelo\\abstracciones\\iususariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\iususariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\proyectodesarrollo\\dulcefacilsistema\\dulcefacil.dominio.modelo\\abstracciones\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\proyectodesarrollo\\dulcefacilsistema\\dulcefacil.dominio.modelo\\abstracciones\\irepartidorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\irepartidorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\proyectodesarrollo\\dulcefacilsistema\\dulcefacil.dominio.modelo\\abstracciones\\iproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\iproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\proyectodesarrollo\\dulcefacilsistema\\dulcefacil.dominio.modelo\\abstracciones\\iprecioproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\iprecioproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\proyectodesarrollo\\dulcefacilsistema\\dulcefacil.dominio.modelo\\abstracciones\\iinventariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\iinventariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\proyectodesarrollo\\dulcefacilsistema\\dulcefacil.dominio.modelo\\abstracciones\\icotizacionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\icotizacionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\proyectodesarrollo\\dulcefacilsistema\\dulcefacil.dominio.modelo\\abstracciones\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\proyectodesarrollo\\dulcefacilsistema\\dulcefacil.dominio.modelo\\abstracciones\\icotizacion_detallerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA64FD-79FC-416E-B772-6115C4F0FF27}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\icotizacion_detallerepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +63,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\IRepositorio.cs",
+              "ToolTip": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:54:36.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsusarioRepositorio.cs",
+              "DocumentMoniker": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IUsusarioRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\IUsusarioRepositorio.cs",
+              "ToolTip": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IUsusarioRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\IUsusarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:40:34.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IVentaRepositorio.cs",
+              "DocumentMoniker": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IVentaRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\IVentaRepositorio.cs",
+              "ToolTip": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IVentaRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\IVentaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:41:16.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepartidorRepositorio.cs",
+              "DocumentMoniker": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IRepartidorRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\IRepartidorRepositorio.cs",
+              "ToolTip": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IRepartidorRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\IRepartidorRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:38:45.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductoRepositorio.cs",
+              "DocumentMoniker": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IProductoRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\IProductoRepositorio.cs",
+              "ToolTip": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IProductoRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\IProductoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:55:23.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrecioproductoRepositorio.cs",
+              "DocumentMoniker": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IPrecioproductoRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\IPrecioproductoRepositorio.cs",
+              "ToolTip": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IPrecioproductoRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\IPrecioproductoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:37:51.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInventarioRepositorio.cs",
+              "DocumentMoniker": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IInventarioRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\IInventarioRepositorio.cs",
+              "ToolTip": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IInventarioRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\IInventarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:37:09.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICotizacionRepositorio.cs",
+              "DocumentMoniker": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\ICotizacionRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\ICotizacionRepositorio.cs",
+              "ToolTip": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\ICotizacionRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\ICotizacionRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:36:05.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\IClienteRepositorio.cs",
+              "ToolTip": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\IClienteRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\IClienteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:41:18.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICotizacion_DetalleRepositorio.cs",
+              "DocumentMoniker": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\ICotizacion_DetalleRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\ICotizacion_DetalleRepositorio.cs",
+              "ToolTip": "C:\\ProyectoDesarrollo\\DulceFacilSistema\\DulceFacil.Dominio.Modelo\\Abstracciones\\ICotizacion_DetalleRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\ICotizacion_DetalleRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:36:47.238Z",
+              "EditorCaption": ""
             }
           ]
         }
